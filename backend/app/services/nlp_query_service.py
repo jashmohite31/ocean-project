@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 # ─────────────────────────────────────────────────────────────────────────────
 #  OceanX System Prompt
 # ─────────────────────────────────────────────────────────────────────────────
-OCEANX_SYSTEM_PROMPT = """You are **OceanX Assistant**, an oceanographic assistant embedded in the OceanX 3D Ocean Intelligence Platform.
+OCEANX_SYSTEM_PROMPT = """You are **OceanLense Assistant**, an oceanographic assistant embedded in the OceanLense 3D Ocean Intelligence Platform.
 
 ## YOUR SCOPE
 You ONLY answer questions about:
@@ -313,7 +313,7 @@ class AskOceanXService:
         # 1. GREETINGS & CASUAL INTENTS
         if any(w in q for w in ["hi", "hello", "hey", "namaste", "good morning", "good afternoon", "good evening", "who are you", "help me"]):
             answer = (
-                f"Hello! I'm **OceanX Assistant**. Ask me about ocean temperature, salinity, currents, Argo floats, or marine hazards in the North Indian Ocean."
+                f"Hello! I'm **OceanLense Assistant**. Ask me about ocean temperature, salinity, currents, Argo floats, or marine hazards in the North Indian Ocean."
             )
             return {
                 "query": query, "intent": "GREETING",
@@ -339,7 +339,7 @@ class AskOceanXService:
         if any(w in q for w in ["water column", "thermocline", "abyssal", "parking depth", "seafloor", "seabed", "bathymetry", "depth profile"]):
             answer = (
                 f"### Water Column Profile & Ocean Bathymetry\n\n"
-                f"The 3D water column in OceanX is divided into distinct physical zones:\n\n"
+                f"The 3D water column in OceanLense is divided into distinct physical zones:\n\n"
                 f"| Depth Level | Layer Name | Physical Characteristics |\n"
                 f"|---|---|---|\n"
                 f"| **0 m** | **Sea Surface** | Solar radiative heating, SST ~25.8°C to 31.0°C, air-sea gas exchange |\n"
@@ -399,7 +399,7 @@ class AskOceanXService:
                     f"**Impact Assessment**:\n"
                     f"- **Marine Heatwaves**: Prolonged high thermal energy can trigger coral bleaching and alter pelagic fish migration patterns.\n"
                     f"- **Cyclonic Eddies**: High vorticity zones create vertical pumping of cold, nutrient-rich water to the photic zone.\n\n"
-                    f"> *OceanX is a decision-support visualization tool. Always consult IMD / INCOIS for official operational advisories.*"
+                    f"> *OceanLense is a decision-support visualization tool. Always consult IMD / INCOIS for official operational advisories.*"
                 )
                 return {
                     "query": query, "intent": "HAZARDS_QUERY",
@@ -436,7 +436,7 @@ class AskOceanXService:
 
                 answer = (
                     f"### In-Situ Observing Fleet\n\n"
-                    f"OceanX tracks **{len(obs_list)} active in-situ platforms** deployed across the North Indian Ocean ({type_summary}).\n"
+                    f"OceanLense tracks **{len(obs_list)} active in-situ platforms** deployed across the North Indian Ocean ({type_summary}).\n"
                     f"These automated instruments measure temperature, salinity, and pressure profiles during cyclic ascents from 2,000 m depth to the surface."
                     f"{float_detail}"
                 )

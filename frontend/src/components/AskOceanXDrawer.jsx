@@ -256,7 +256,7 @@ export default function AskOceanXDrawer({
     {
       id: 0,
       sender: 'ai',
-      text: 'Hello! I\'m **OceanX Assistant**. Ask me about ocean temperature, salinity, currents, Argo floats, or marine hazards in the North Indian Ocean.',
+      text: 'Hello! I\'m **OceanLense Assistant**. Ask me about ocean temperature, salinity, currents, Argo floats, or marine hazards in the North Indian Ocean.',
       source: '3D-Intelligence-Engine',
       dataSource: '3D Ocean Model',
       action: null,
@@ -344,7 +344,7 @@ export default function AskOceanXDrawer({
         {
           id: errId,
           sender: 'ai',
-          text: '**OceanX 3D Intelligence Analysis:**\n\nUnable to reach server. Please ensure the backend is active at `http://127.0.0.1:8000`.',
+          text: '**OceanLense 3D Intelligence Analysis:**\n\nUnable to reach server. Please ensure the backend is active at `http://127.0.0.1:8000`.',
           action: null,
           source: 'error',
           dataSource: null,
@@ -402,7 +402,7 @@ export default function AskOceanXDrawer({
                 </div>
                 <div>
                   <h2 className="text-sm font-bold text-slate-900 flex items-center gap-1.5">
-                    OceanX Assistant
+                    OceanLense Assistant
                     <Sparkles className="w-3.5 h-3.5 text-[#0284c7]" />
                   </h2>
                   <p className="text-[11px] text-slate-600 font-semibold">Grounded in 3D Ocean Model & In-Situ Fleet</p>
@@ -443,7 +443,7 @@ export default function AskOceanXDrawer({
                     <div className="w-5 h-5 rounded-full bg-gradient-to-br from-[#0284c7] to-[#059669] flex items-center justify-center flex-shrink-0 shadow-xs">
                       <Waves className="w-3 h-3 text-white" />
                     </div>
-                    <span className="text-xs text-slate-800 font-bold">OceanX Assistant</span>
+                    <span className="text-xs text-slate-800 font-bold">OceanLense Assistant</span>
                   </div>
                 )}
 
@@ -484,7 +484,7 @@ export default function AskOceanXDrawer({
                   <div className="w-5 h-5 rounded-full bg-gradient-to-br from-[#0284c7] to-[#059669] flex items-center justify-center shadow-xs">
                     <Waves className="w-3 h-3 text-white" />
                   </div>
-                  <span className="text-xs text-slate-800 font-bold">OceanX Assistant</span>
+                  <span className="text-xs text-slate-800 font-bold">OceanLense Assistant</span>
                 </div>
                 <TypingIndicator />
               </div>
@@ -541,7 +541,7 @@ export default function AskOceanXDrawer({
               </button>
             </div>
             <p className="text-[11px] text-center text-slate-600 mt-2 font-medium">
-              OceanX Assistant · Grounded in active 3D model & in-situ fleet · Not a certified warning system
+              OceanLense Assistant · Grounded in active 3D model & in-situ fleet · Not a certified warning system
             </p>
           </div>
         </div>

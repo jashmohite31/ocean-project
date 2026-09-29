@@ -1,5 +1,6 @@
 import React from 'react';
 import { Waves, GitCompare, Radio, ShieldAlert, Database, Bot, Sparkles } from 'lucide-react';
+import logo from '../assets/logo.png';
 
 export default function TopNavbar({
   activeTab,
@@ -20,12 +21,10 @@ export default function TopNavbar({
     <header className="h-16 border-b-2 border-slate-300 bg-white px-5 flex items-center justify-between z-30 select-none sticky top-0 w-full shadow-sm text-slate-950">
       {/* Brand & Theme */}
       <div className="flex items-center gap-3">
-        <div className="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center shadow-md">
-          <Waves className="w-5 h-5 text-white stroke-[2.5]" />
-        </div>
+        <img src={logo} alt="OceanLense Logo" className="w-10 h-10 rounded-xl object-cover shadow-md" />
         <div>
           <div className="flex items-center gap-2">
-            <span className="font-black text-xl tracking-tight text-slate-950">OceanX</span>
+            <span className="font-black text-xl tracking-tight text-slate-950">OceanLense</span>
           </div>
           <div className="text-xs text-slate-900 font-bold">
             3D Ocean Intelligence • Disaster Management
@@ -71,7 +70,7 @@ export default function TopNavbar({
           className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-black text-white bg-blue-600 hover:bg-blue-700 shadow-md transition-all cursor-pointer"
         >
           <Bot className="w-4 h-4 stroke-[2.2]" />
-          <span>Ask OceanX</span>
+          <span>Ask OceanLense</span>
           <Sparkles className="w-3.5 h-3.5 text-[#CBF3BB] animate-pulse" />
         </button>
       </div>

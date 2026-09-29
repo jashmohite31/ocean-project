@@ -20,7 +20,7 @@ from backend.app.adapters.incois_adapter import INCOISApiAdapter
 from backend.app.pipeline.confidence import ConfidenceEngine
 
 app = FastAPI(
-    title="OceanX – 3D Ocean Intelligence Platform API",
+    title="OceanLense – 3D Ocean Intelligence Platform API",
     description="Interactive 3D visualization and analysis platform integrating numerical ocean model outputs and in-situ observations (SIH-26067)",
     version="1.0.0"
 )
@@ -47,7 +47,7 @@ incois_adapter = INCOISApiAdapter()
 
 @app.get("/api/health")
 def health_check():
-    return {"status": "ONLINE", "system": "OceanX Platform", "version": "1.0.0-SIH26067"}
+    return {"status": "ONLINE", "system": "OceanLense Platform", "version": "1.0.0"}
 
 @app.get("/api/metadata/provenance")
 def get_provenance():
