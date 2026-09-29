@@ -207,67 +207,87 @@ The **OceanLense Assistant** is powered by **Gemini 2.5 Flash** and grounded in 
 
 ## 💼 Business Model Canvas
 
-### 1. Value Proposition
-* **For Government/Agencies:** Early detection of marine hazards (heatwaves, eddies) to protect coastal economies and marine ecosystems.
-* **For Researchers:** A unified 3D platform to explore and validate ocean models with real observations. Saves significant time and effort.
-* **For Marine Industries:** Actionable subsurface intelligence (temp, currents, salinity) to support safe navigation, offshore energy, and fisheries.
-* **Core Innovation:** Converts complex NetCDF ocean data into an accessible, interactive 3D web interface with an AI assistant for natural language querying.
+<table width="100%">
+  <tr>
+    <td rowspan="2" width="20%" valign="top">
+      <b>1️⃣ Key Partners</b><br><br>
+      • <b>Data Providers:</b> INCOIS, NOAA, Copernicus<br>
+      • <b>Hardware:</b> Argo & glider deployers<br>
+      • <b>Cloud:</b> Google Cloud / AWS / Render<br>
+      • <b>Research:</b> Universities & oceanographic institutes<br>
+      • <b>Domain:</b> Marine technology organizations
+    </td>
+    <td width="20%" valign="top">
+      <b>2️⃣ Key Activities</b><br><br>
+      • Aggregate ocean-model & Argo data<br>
+      • Develop 3D visualization platform<br>
+      • AI natural language querying<br>
+      • Model vs observation validation<br>
+      • Cloud data processing
+    </td>
+    <td rowspan="2" width="20%" valign="top">
+      <b>3️⃣ Value Propositions</b><br><br>
+      <b>For Gov / Agencies:</b><br>Early detection of marine hazards (heatwaves, eddies) to protect coastal economies.<br><br>
+      <b>For Researchers:</b><br>Unified 3D platform to explore and validate ocean models with real observations.<br><br>
+      <b>For Industries:</b><br>Actionable subsurface intelligence.<br><br>
+      <b>Core Innovation:</b><br>Converts NetCDF data into an interactive 3D web interface with an AI assistant.
+    </td>
+    <td width="20%" valign="top">
+      <b>6️⃣ Customer Relationships</b><br><br>
+      • High-touch support & SLAs<br>
+      • Self-service platform<br>
+      • Automated AI assistance<br>
+      • Custom solutions & deployments
+    </td>
+    <td rowspan="2" width="20%" valign="top">
+      <b>4️⃣ Customer Segments</b><br><br>
+      <b>B2G (Government):</b><br>Ministry of Earth Sciences, INCOIS, IMD, Coast Guard.<br><br>
+      <b>B2B (Marine Industries):</b><br>Commercial shipping, offshore energy, fishing fleets.<br><br>
+      <b>B2I (Academic):</b><br>Universities, research institutes, climate NGOs.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>5️⃣ Key Resources</b><br><br>
+      • Ocean datasets (INCOIS, Argo)<br>
+      • Cloud computing & storage<br>
+      • Tech stack (Python, React)<br>
+      • Oceanographers & Developers<br>
+      • Google Gemini APIs
+    </td>
+    <td valign="top">
+      <b>7️⃣ Channels</b><br><br>
+      • Direct sales<br>
+      • Academic partnerships<br>
+      • Conferences (Ocean Sciences)<br>
+      • Online SaaS platform<br>
+      • API ecosystem
+    </td>
+  </tr>
+</table>
 
-### 2. Customer Segments
-* **B2G (Government Agencies):** Ministry of Earth Sciences, INCOIS, IMD, Coast Guard, Disaster Management Authorities.
-* **B2B (Marine Industries):** Commercial shipping companies, offshore energy (oil/gas/wind), commercial fishing fleets.
-* **B2I (Research & Academic Institutions):** Universities, oceanographic research institutes, climate NGOs.
-
-### 3. Key Activities
-* **Data Aggregation:** Continuous ingestion of ocean-model and Argo/glider data via APIs.
-* **Platform Development:** Develop and maintain web-based 3D visualization rendering and user tools.
-* **AI Model Tuning:** Gemini-powered natural language querying and scientific validation.
-* **Model vs. Observation Validation:** Automated statistical analysis (RMSE, SI, etc.).
-* **Cloud Data Processing:** Scalable infrastructure for processing and storage.
-
-### 4. Key Resources
-* **Ocean Datasets:** INCOIS, NOAA, Copernicus, Argo.
-* **Cloud Computing & Storage:** High-performance infrastructure.
-* **Technology Stack:** Python/FastAPI backend, React + Three.js frontend.
-* **Human Capital:** Oceanographers, data scientists, full-stack developers.
-* **AI Models:** Google Gemini APIs for NLP querying.
-* **Algorithms:** 3D volume rendering, model comparison, analytics.
-
-### 5. Key Partners
-* **Data Providers:** INCOIS (India), NOAA, Copernicus Marine Service.
-* **Hardware Deployers:** Argo & glider organizations (in-situ data providers).
-* **Cloud Infrastructure:** Google Cloud / AWS / Render.
-* **Research Collaboration:** Universities & oceanographic institutes.
-* **Domain Expertise:** Marine technology organizations.
-
-### 6. Customer Relationships
-* **High-touch support:** Dedicated account management & SLAs for government and enterprise customers.
-* **Self-service platform:** Comprehensive API documentation for researchers.
-* **Automated assistance:** AI assistant for data exploration and tier-1 support.
-* **Custom solutions:** Feature requests and tailored deployments.
-
-### 7. Channels
-* **Direct Sales:** Government ministries and enterprise companies.
-* **Academic Partnerships:** Discounted access for universities.
-* **Conferences & Events:** Marine technology and climate summits (e.g., Ocean Sciences Meeting).
-* **Online SaaS platform:** Web application and developer ecosystem.
-* **API ecosystem:** For third-party integrations.
-
-### 8. Cost Structure
-* **Cloud hosting & GPU computing:** Major cost for large datasets and 3D rendering.
-* **Data storage:** Massive NetCDF files and real-time data.
-* **AI/API costs:** Google Gemini usage fees.
-* **Software development & R&D:** Platform development and maintenance.
-* **Salaries:** Developers, data scientists, domain experts.
-* **Sales & marketing:** B2B outreach and conference participation.
-
-### 9. Revenue Streams
-* **SaaS Subscriptions (Tiered):**
-  * *Basic:* Delayed data, basic 2D/3D views (Target: Students and hobbyists).
-  * *Pro:* Live data, advanced validation tools, Full AI assistant access (Target: Researchers and institutions).
-  * *Enterprise:* Real-time hazard alerts, custom pipelines, dedicated API access, private deployment (Target: Government agencies and corporations).
-* **Custom Integration Fees:** One-time fees for integrating private sensor/buoy/offshore datasets.
-* **Enterprise Services:** Custom data pipelines, analytics reports, and private deployments.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>8️⃣ Cost Structure</b><br><br>
+      • <b>Cloud & GPU:</b> Major cost for large datasets and 3D rendering<br>
+      • <b>Data Storage:</b> Massive NetCDF files and real-time feeds<br>
+      • <b>AI/API Costs:</b> Google Gemini usage fees<br>
+      • <b>R&D:</b> Platform development and maintenance<br>
+      • <b>Salaries:</b> Developers, data scientists, domain experts<br>
+      • <b>Marketing:</b> B2B outreach and conference participation
+    </td>
+    <td width="50%" valign="top">
+      <b>9️⃣ Revenue Streams</b><br><br>
+      • <b>SaaS Subscriptions (Tiered):</b> <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;- <i>Basic:</i> Delayed data, 2D/3D views (Students)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;- <i>Pro:</i> Live data, validation tools, AI access (Researchers)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;- <i>Enterprise:</i> Real-time alerts, private deployment (Gov/Corp)<br>
+      • <b>Custom Integration Fees:</b> Integrating private offshore sensor datasets<br>
+      • <b>Enterprise Services:</b> Custom data pipelines and analytics reports
+    </td>
+  </tr>
+</table>
 
 ---
 
