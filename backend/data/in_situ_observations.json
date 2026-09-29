@@ -1,0 +1,2480 @@
+[
+  {
+    "id": "ARGO-2902145",
+    "name": "INCOIS Argo #2902145 (Central Arabian Sea)",
+    "type": "ARGO",
+    "latitude": 16.5,
+    "longitude": 64.2,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 25.83,
+    "surface_salinity": 36.44,
+    "attributes": {
+      "id": "ARGO-2902145",
+      "type": "ARGO",
+      "lat": 16.5,
+      "lon": 64.2,
+      "name": "INCOIS Argo #2902145 (Central Arabian Sea)",
+      "cycle": 142,
+      "battery": "94%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 25.83,
+        "salinity": 36.44,
+        "chlorophyll": 1.78,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 25.22,
+        "salinity": 36.33,
+        "chlorophyll": 1.54,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 24.06,
+        "salinity": 36.28,
+        "chlorophyll": 1.16,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 22.53,
+        "salinity": 36.1,
+        "chlorophyll": 0.77,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 21.07,
+        "salinity": 36.08,
+        "chlorophyll": 0.51,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 19.59,
+        "salinity": 35.94,
+        "chlorophyll": 0.36,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 17.39,
+        "salinity": 35.74,
+        "chlorophyll": 0.15,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 15.44,
+        "salinity": 35.7,
+        "chlorophyll": 0.11,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 11.99,
+        "salinity": 35.39,
+        "chlorophyll": 0.05,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.01,
+        "salinity": 35.19,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.38,
+        "salinity": 34.95,
+        "chlorophyll": 0.02,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.41,
+        "salinity": 34.86,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.79,
+        "salinity": 34.79,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.46,
+        "salinity": 34.85,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2902210",
+    "name": "INCOIS Argo #2902210 (Central Bay of Bengal)",
+    "type": "ARGO",
+    "latitude": 14.8,
+    "longitude": 86.4,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.67,
+    "surface_salinity": 32.24,
+    "attributes": {
+      "id": "ARGO-2902210",
+      "type": "ARGO",
+      "lat": 14.8,
+      "lon": 86.4,
+      "name": "INCOIS Argo #2902210 (Central Bay of Bengal)",
+      "cycle": 88,
+      "battery": "89%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.67,
+        "salinity": 32.24,
+        "chlorophyll": 0.36,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 29.0,
+        "salinity": 32.24,
+        "chlorophyll": 0.33,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.7,
+        "salinity": 32.47,
+        "chlorophyll": 0.26,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.89,
+        "salinity": 32.61,
+        "chlorophyll": 0.17,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.21,
+        "salinity": 32.72,
+        "chlorophyll": 0.13,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.61,
+        "salinity": 32.83,
+        "chlorophyll": 0.06,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.77,
+        "salinity": 33.14,
+        "chlorophyll": 0.02,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.28,
+        "salinity": 33.41,
+        "chlorophyll": 0.02,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.61,
+        "salinity": 33.84,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.72,
+        "salinity": 34.36,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.95,
+        "salinity": 34.5,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.68,
+        "salinity": 34.72,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.72,
+        "salinity": 34.81,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.64,
+        "salinity": 34.84,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2902305",
+    "name": "INCOIS Argo #2902305 (Equatorial Indian Ocean)",
+    "type": "ARGO",
+    "latitude": 5.2,
+    "longitude": 78.5,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.96,
+    "surface_salinity": 32.22,
+    "attributes": {
+      "id": "ARGO-2902305",
+      "type": "ARGO",
+      "lat": 5.2,
+      "lon": 78.5,
+      "name": "INCOIS Argo #2902305 (Equatorial Indian Ocean)",
+      "cycle": 210,
+      "battery": "72%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.96,
+        "salinity": 32.22,
+        "chlorophyll": 0.42,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 28.98,
+        "salinity": 32.27,
+        "chlorophyll": 0.33,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.83,
+        "salinity": 32.44,
+        "chlorophyll": 0.25,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.9,
+        "salinity": 32.57,
+        "chlorophyll": 0.15,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.23,
+        "salinity": 32.76,
+        "chlorophyll": 0.13,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.51,
+        "salinity": 32.98,
+        "chlorophyll": 0.07,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.97,
+        "salinity": 33.25,
+        "chlorophyll": 0.05,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.34,
+        "salinity": 33.5,
+        "chlorophyll": 0.03,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.71,
+        "salinity": 33.71,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.92,
+        "salinity": 34.3,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 6.04,
+        "salinity": 34.55,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.57,
+        "salinity": 34.65,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.84,
+        "salinity": 34.76,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.78,
+        "salinity": 34.85,
+        "chlorophyll": 0.07,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-6903212",
+    "name": "Argo #6903212 (Lakshadweep Basin)",
+    "type": "ARGO",
+    "latitude": 12.4,
+    "longitude": 72.1,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 28.13,
+    "surface_salinity": 36.3,
+    "attributes": {
+      "id": "ARGO-6903212",
+      "type": "ARGO",
+      "lat": 12.4,
+      "lon": 72.1,
+      "name": "Argo #6903212 (Lakshadweep Basin)",
+      "cycle": 65,
+      "battery": "96%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 28.13,
+        "salinity": 36.3,
+        "chlorophyll": 0.39,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 27.41,
+        "salinity": 36.34,
+        "chlorophyll": 0.34,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 26.48,
+        "salinity": 36.29,
+        "chlorophyll": 0.3,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 24.57,
+        "salinity": 36.13,
+        "chlorophyll": 0.15,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 22.91,
+        "salinity": 36.04,
+        "chlorophyll": 0.12,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 21.49,
+        "salinity": 35.87,
+        "chlorophyll": 0.09,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 18.79,
+        "salinity": 35.87,
+        "chlorophyll": 0.04,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 16.46,
+        "salinity": 35.62,
+        "chlorophyll": 0.03,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.01,
+        "salinity": 35.37,
+        "chlorophyll": 0.02,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.43,
+        "salinity": 35.14,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.76,
+        "salinity": 35.06,
+        "chlorophyll": 0.03,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.51,
+        "salinity": 34.89,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.77,
+        "salinity": 34.69,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.58,
+        "salinity": 34.98,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-1901844",
+    "name": "Argo #1901844 (Sri Lanka Dome / South BoB)",
+    "type": "ARGO",
+    "latitude": 8.1,
+    "longitude": 82.6,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.79,
+    "surface_salinity": 32.26,
+    "attributes": {
+      "id": "ARGO-1901844",
+      "type": "ARGO",
+      "lat": 8.1,
+      "lon": 82.6,
+      "name": "Argo #1901844 (Sri Lanka Dome / South BoB)",
+      "cycle": 115,
+      "battery": "81%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.79,
+        "salinity": 32.26,
+        "chlorophyll": 0.41,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 29.03,
+        "salinity": 32.26,
+        "chlorophyll": 0.37,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.8,
+        "salinity": 32.39,
+        "chlorophyll": 0.24,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.97,
+        "salinity": 32.61,
+        "chlorophyll": 0.2,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.22,
+        "salinity": 32.72,
+        "chlorophyll": 0.11,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.47,
+        "salinity": 32.91,
+        "chlorophyll": 0.1,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.8,
+        "salinity": 33.23,
+        "chlorophyll": 0.09,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.43,
+        "salinity": 33.39,
+        "chlorophyll": 0.02,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.53,
+        "salinity": 33.76,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.8,
+        "salinity": 34.3,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 6.03,
+        "salinity": 34.61,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.58,
+        "salinity": 34.75,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.74,
+        "salinity": 34.79,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.76,
+        "salinity": 34.78,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2903102",
+    "name": "Argo #2903102 (Northern Bay of Bengal)",
+    "type": "ARGO",
+    "latitude": 19.8,
+    "longitude": 89.2,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.86,
+    "surface_salinity": 32.22,
+    "attributes": {
+      "id": "ARGO-2903102",
+      "type": "ARGO",
+      "lat": 19.8,
+      "lon": 89.2,
+      "name": "Argo #2903102 (Northern Bay of Bengal)",
+      "cycle": 44,
+      "battery": "98%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.86,
+        "salinity": 32.22,
+        "chlorophyll": 0.39,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 28.94,
+        "salinity": 32.26,
+        "chlorophyll": 0.35,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.7,
+        "salinity": 32.43,
+        "chlorophyll": 0.24,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.9,
+        "salinity": 32.6,
+        "chlorophyll": 0.21,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.19,
+        "salinity": 32.74,
+        "chlorophyll": 0.1,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.69,
+        "salinity": 32.98,
+        "chlorophyll": 0.06,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.75,
+        "salinity": 33.23,
+        "chlorophyll": 0.04,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.42,
+        "salinity": 33.45,
+        "chlorophyll": 0.02,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.53,
+        "salinity": 33.8,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.81,
+        "salinity": 34.3,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.98,
+        "salinity": 34.56,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.78,
+        "salinity": 34.7,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.68,
+        "salinity": 34.75,
+        "chlorophyll": 0.03,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.68,
+        "salinity": 34.78,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-5906440",
+    "name": "Argo #5906440 (Northeast Arabian Sea)",
+    "type": "ARGO",
+    "latitude": 18.2,
+    "longitude": 68.8,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 28.22,
+    "surface_salinity": 36.37,
+    "attributes": {
+      "id": "ARGO-5906440",
+      "type": "ARGO",
+      "lat": 18.2,
+      "lon": 68.8,
+      "name": "Argo #5906440 (Northeast Arabian Sea)",
+      "cycle": 156,
+      "battery": "68%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 28.22,
+        "salinity": 36.37,
+        "chlorophyll": 1.8,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 27.42,
+        "salinity": 36.36,
+        "chlorophyll": 1.52,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 26.19,
+        "salinity": 36.31,
+        "chlorophyll": 1.18,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 24.7,
+        "salinity": 36.15,
+        "chlorophyll": 0.78,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 22.92,
+        "salinity": 36.11,
+        "chlorophyll": 0.53,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 21.44,
+        "salinity": 35.97,
+        "chlorophyll": 0.34,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 18.8,
+        "salinity": 35.81,
+        "chlorophyll": 0.14,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 16.31,
+        "salinity": 35.64,
+        "chlorophyll": 0.07,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 12.88,
+        "salinity": 35.34,
+        "chlorophyll": 0.02,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.69,
+        "salinity": 35.14,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.82,
+        "salinity": 34.95,
+        "chlorophyll": 0.02,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.43,
+        "salinity": 34.84,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.77,
+        "salinity": 34.7,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.62,
+        "salinity": 34.81,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2902891",
+    "name": "Argo #2902891 (West Lakshadweep Sea)",
+    "type": "ARGO",
+    "latitude": 10.5,
+    "longitude": 62.5,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 28.19,
+    "surface_salinity": 36.49,
+    "attributes": {
+      "id": "ARGO-2902891",
+      "type": "ARGO",
+      "lat": 10.5,
+      "lon": 62.5,
+      "name": "Argo #2902891 (West Lakshadweep Sea)",
+      "cycle": 98,
+      "battery": "85%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 28.19,
+        "salinity": 36.49,
+        "chlorophyll": 0.38,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 27.46,
+        "salinity": 36.39,
+        "chlorophyll": 0.36,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 26.28,
+        "salinity": 36.26,
+        "chlorophyll": 0.28,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 24.42,
+        "salinity": 36.11,
+        "chlorophyll": 0.19,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 22.94,
+        "salinity": 36.04,
+        "chlorophyll": 0.15,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 21.38,
+        "salinity": 35.96,
+        "chlorophyll": 0.06,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 18.72,
+        "salinity": 35.8,
+        "chlorophyll": 0.06,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 16.6,
+        "salinity": 35.74,
+        "chlorophyll": 0.03,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 12.88,
+        "salinity": 35.51,
+        "chlorophyll": 0.02,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.5,
+        "salinity": 35.08,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.83,
+        "salinity": 34.9,
+        "chlorophyll": 0.02,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.54,
+        "salinity": 34.9,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.79,
+        "salinity": 34.89,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.67,
+        "salinity": 34.79,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2903420",
+    "name": "Argo #2903420 (Andaman Sea Transect)",
+    "type": "ARGO",
+    "latitude": 11.8,
+    "longitude": 92.4,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.79,
+    "surface_salinity": 32.19,
+    "attributes": {
+      "id": "ARGO-2903420",
+      "type": "ARGO",
+      "lat": 11.8,
+      "lon": 92.4,
+      "name": "Argo #2903420 (Andaman Sea Transect)",
+      "cycle": 52,
+      "battery": "92%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.79,
+        "salinity": 32.19,
+        "chlorophyll": 0.42,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 28.98,
+        "salinity": 32.27,
+        "chlorophyll": 0.34,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.83,
+        "salinity": 32.4,
+        "chlorophyll": 0.3,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.85,
+        "salinity": 32.64,
+        "chlorophyll": 0.17,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.18,
+        "salinity": 32.78,
+        "chlorophyll": 0.13,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.42,
+        "salinity": 32.91,
+        "chlorophyll": 0.08,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.84,
+        "salinity": 33.22,
+        "chlorophyll": 0.05,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.35,
+        "salinity": 33.47,
+        "chlorophyll": 0.02,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.55,
+        "salinity": 33.8,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.97,
+        "salinity": 34.3,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.85,
+        "salinity": 34.56,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.63,
+        "salinity": 34.7,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.8,
+        "salinity": 34.77,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.62,
+        "salinity": 34.79,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2903551",
+    "name": "Argo #2903551 (Chagos-Laccadive Ridge)",
+    "type": "ARGO",
+    "latitude": 7.6,
+    "longitude": 69.8,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 28.17,
+    "surface_salinity": 36.47,
+    "attributes": {
+      "id": "ARGO-2903551",
+      "type": "ARGO",
+      "lat": 7.6,
+      "lon": 69.8,
+      "name": "Argo #2903551 (Chagos-Laccadive Ridge)",
+      "cycle": 178,
+      "battery": "75%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 28.17,
+        "salinity": 36.47,
+        "chlorophyll": 0.4,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 27.47,
+        "salinity": 36.31,
+        "chlorophyll": 0.36,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 26.28,
+        "salinity": 36.28,
+        "chlorophyll": 0.28,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 24.6,
+        "salinity": 36.2,
+        "chlorophyll": 0.22,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 22.94,
+        "salinity": 36.1,
+        "chlorophyll": 0.1,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 21.4,
+        "salinity": 35.93,
+        "chlorophyll": 0.06,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 18.9,
+        "salinity": 35.74,
+        "chlorophyll": 0.03,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 16.58,
+        "salinity": 35.66,
+        "chlorophyll": 0.04,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 12.95,
+        "salinity": 35.47,
+        "chlorophyll": 0.02,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.49,
+        "salinity": 35.07,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.75,
+        "salinity": 34.88,
+        "chlorophyll": 0.02,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.5,
+        "salinity": 34.83,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.73,
+        "salinity": 34.76,
+        "chlorophyll": 0.03,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.57,
+        "salinity": 34.82,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 2
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2903612",
+    "name": "Argo #2903612 (Coromandel Coast)",
+    "type": "ARGO",
+    "latitude": 13.5,
+    "longitude": 81.9,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.94,
+    "surface_salinity": 32.19,
+    "attributes": {
+      "id": "ARGO-2903612",
+      "type": "ARGO",
+      "lat": 13.5,
+      "lon": 81.9,
+      "name": "Argo #2903612 (Coromandel Coast)",
+      "cycle": 34,
+      "battery": "97%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.94,
+        "salinity": 32.19,
+        "chlorophyll": 0.38,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 28.95,
+        "salinity": 32.27,
+        "chlorophyll": 0.38,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.77,
+        "salinity": 32.44,
+        "chlorophyll": 0.3,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.88,
+        "salinity": 32.55,
+        "chlorophyll": 0.16,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.28,
+        "salinity": 32.74,
+        "chlorophyll": 0.11,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.58,
+        "salinity": 32.94,
+        "chlorophyll": 0.08,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.65,
+        "salinity": 33.25,
+        "chlorophyll": 0.02,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.37,
+        "salinity": 33.43,
+        "chlorophyll": 0.03,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.55,
+        "salinity": 33.85,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.81,
+        "salinity": 34.3,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.87,
+        "salinity": 34.59,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.53,
+        "salinity": 34.83,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.82,
+        "salinity": 34.72,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.78,
+        "salinity": 34.76,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "ARGO-2903780",
+    "name": "Argo #2903780 (Gulf of Kachchh Approaches)",
+    "type": "ARGO",
+    "latitude": 21.0,
+    "longitude": 66.5,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean ARGO Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 28.24,
+    "surface_salinity": 36.35,
+    "attributes": {
+      "id": "ARGO-2903780",
+      "type": "ARGO",
+      "lat": 21.0,
+      "lon": 66.5,
+      "name": "Argo #2903780 (Gulf of Kachchh Approaches)",
+      "cycle": 72,
+      "battery": "91%"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 28.24,
+        "salinity": 36.35,
+        "chlorophyll": 1.84,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 27.37,
+        "salinity": 36.35,
+        "chlorophyll": 1.52,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 26.17,
+        "salinity": 36.22,
+        "chlorophyll": 1.18,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 24.53,
+        "salinity": 36.22,
+        "chlorophyll": 0.8,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 22.95,
+        "salinity": 35.95,
+        "chlorophyll": 0.5,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 21.38,
+        "salinity": 35.91,
+        "chlorophyll": 0.34,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 18.76,
+        "salinity": 35.83,
+        "chlorophyll": 0.14,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 16.59,
+        "salinity": 35.64,
+        "chlorophyll": 0.05,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 12.88,
+        "salinity": 35.42,
+        "chlorophyll": 0.02,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.49,
+        "salinity": 35.13,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.73,
+        "salinity": 34.9,
+        "chlorophyll": 0.02,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.74,
+        "salinity": 34.94,
+        "chlorophyll": 0.03,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.69,
+        "salinity": 34.75,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.65,
+        "salinity": 34.76,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "GLIDER-IN04",
+    "name": "Deep Ocean Mission Glider GL-IN-04",
+    "type": "GLIDER",
+    "latitude": 13.8,
+    "longitude": 84.1,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean GLIDER Array",
+    "depth_range": [
+      0,
+      1000
+    ],
+    "surface_temp": 29.88,
+    "surface_salinity": 32.15,
+    "attributes": {
+      "id": "GLIDER-IN04",
+      "type": "GLIDER",
+      "lat": 13.8,
+      "lon": 84.1,
+      "name": "Deep Ocean Mission Glider GL-IN-04",
+      "mission": "BoB Freshwater Eddy Survey",
+      "status": "Diving 0-1000m"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.88,
+        "salinity": 32.15,
+        "chlorophyll": 0.37,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 28.85,
+        "salinity": 32.29,
+        "chlorophyll": 0.34,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.69,
+        "salinity": 32.43,
+        "chlorophyll": 0.27,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.92,
+        "salinity": 32.63,
+        "chlorophyll": 0.19,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.28,
+        "salinity": 32.66,
+        "chlorophyll": 0.1,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.51,
+        "salinity": 32.93,
+        "chlorophyll": 0.04,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.83,
+        "salinity": 33.18,
+        "chlorophyll": 0.05,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.25,
+        "salinity": 33.39,
+        "chlorophyll": 0.02,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.59,
+        "salinity": 33.81,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 9.03,
+        "salinity": 34.27,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.84,
+        "salinity": 34.54,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.54,
+        "salinity": 34.69,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "GLIDER-AS02",
+    "name": "Arabian Sea Glider GL-AS-02",
+    "type": "GLIDER",
+    "latitude": 15.2,
+    "longitude": 66.8,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean GLIDER Array",
+    "depth_range": [
+      0,
+      1000
+    ],
+    "surface_temp": 28.25,
+    "surface_salinity": 36.45,
+    "attributes": {
+      "id": "GLIDER-AS02",
+      "type": "GLIDER",
+      "lat": 15.2,
+      "lon": 66.8,
+      "name": "Arabian Sea Glider GL-AS-02",
+      "mission": "Oxygen Minimum Zone (OMZ) Monitoring",
+      "status": "Diving 0-1000m"
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 28.25,
+        "salinity": 36.45,
+        "chlorophyll": 1.81,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 27.49,
+        "salinity": 36.37,
+        "chlorophyll": 1.51,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 26.35,
+        "salinity": 36.25,
+        "chlorophyll": 1.17,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 24.49,
+        "salinity": 36.17,
+        "chlorophyll": 0.78,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 22.93,
+        "salinity": 36.06,
+        "chlorophyll": 0.52,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 21.44,
+        "salinity": 35.96,
+        "chlorophyll": 0.3,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 18.8,
+        "salinity": 35.85,
+        "chlorophyll": 0.15,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 16.52,
+        "salinity": 35.59,
+        "chlorophyll": 0.1,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.06,
+        "salinity": 35.49,
+        "chlorophyll": 0.02,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.51,
+        "salinity": 35.11,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.82,
+        "salinity": 34.99,
+        "chlorophyll": 0.03,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.4,
+        "salinity": 34.8,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "CTD-SK380-01",
+    "name": "ORV Sagar Kanya SK-380 Stn 01",
+    "type": "CTD",
+    "latitude": 11.0,
+    "longitude": 87.0,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean CTD Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.65,
+    "surface_salinity": 32.14,
+    "attributes": {
+      "id": "CTD-SK380-01",
+      "type": "CTD",
+      "lat": 11.0,
+      "lon": 87.0,
+      "name": "ORV Sagar Kanya SK-380 Stn 01",
+      "cruise": "INCOIS BoB Process Study",
+      "depth_max": 2000
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.65,
+        "salinity": 32.14,
+        "chlorophyll": 0.4,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 28.91,
+        "salinity": 32.19,
+        "chlorophyll": 0.38,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.83,
+        "salinity": 32.42,
+        "chlorophyll": 0.25,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 25.97,
+        "salinity": 32.61,
+        "chlorophyll": 0.21,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.29,
+        "salinity": 32.82,
+        "chlorophyll": 0.09,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.48,
+        "salinity": 32.98,
+        "chlorophyll": 0.09,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.67,
+        "salinity": 33.24,
+        "chlorophyll": 0.06,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.37,
+        "salinity": 33.39,
+        "chlorophyll": 0.05,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.61,
+        "salinity": 33.81,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.91,
+        "salinity": 34.24,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.93,
+        "salinity": 34.56,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.81,
+        "salinity": 34.77,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.76,
+        "salinity": 34.82,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.7,
+        "salinity": 34.74,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "CTD-SK380-08",
+    "name": "ORV Sagar Kanya SK-380 Stn 08",
+    "type": "CTD",
+    "latitude": 15.0,
+    "longitude": 88.5,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean CTD Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 29.97,
+    "surface_salinity": 32.13,
+    "attributes": {
+      "id": "CTD-SK380-08",
+      "type": "CTD",
+      "lat": 15.0,
+      "lon": 88.5,
+      "name": "ORV Sagar Kanya SK-380 Stn 08",
+      "cruise": "INCOIS BoB Process Study",
+      "depth_max": 2000
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 29.97,
+        "salinity": 32.13,
+        "chlorophyll": 0.43,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 28.99,
+        "salinity": 32.16,
+        "chlorophyll": 0.3,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 27.78,
+        "salinity": 32.35,
+        "chlorophyll": 0.29,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 26.05,
+        "salinity": 32.54,
+        "chlorophyll": 0.15,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 24.26,
+        "salinity": 32.75,
+        "chlorophyll": 0.1,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 22.48,
+        "salinity": 32.9,
+        "chlorophyll": 0.06,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 19.75,
+        "salinity": 33.21,
+        "chlorophyll": 0.04,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 17.22,
+        "salinity": 33.42,
+        "chlorophyll": 0.02,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 13.56,
+        "salinity": 33.9,
+        "chlorophyll": 0.03,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.89,
+        "salinity": 34.31,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.79,
+        "salinity": 34.66,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.71,
+        "salinity": 34.69,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.72,
+        "salinity": 34.82,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.66,
+        "salinity": 34.83,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "BGC-2902998",
+    "name": "BGC-Argo #2902998 (OMZ Bio-profiler)",
+    "type": "BGC",
+    "latitude": 17.2,
+    "longitude": 65.5,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean BGC Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 25.72,
+    "surface_salinity": 36.39,
+    "attributes": {
+      "id": "BGC-2902998",
+      "type": "BGC",
+      "lat": 17.2,
+      "lon": 65.5,
+      "name": "BGC-Argo #2902998 (OMZ Bio-profiler)",
+      "parameters": [
+        "Temp",
+        "Sal",
+        "Oxygen",
+        "Chl-a"
+      ]
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 25.72,
+        "salinity": 36.39,
+        "chlorophyll": 1.77,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 25.04,
+        "salinity": 36.31,
+        "chlorophyll": 1.53,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 24.07,
+        "salinity": 36.32,
+        "chlorophyll": 1.2,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 22.52,
+        "salinity": 36.13,
+        "chlorophyll": 0.79,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 20.94,
+        "salinity": 36.15,
+        "chlorophyll": 0.53,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 19.65,
+        "salinity": 35.95,
+        "chlorophyll": 0.32,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 17.38,
+        "salinity": 35.74,
+        "chlorophyll": 0.15,
+        "oxygen": 1.83,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 15.15,
+        "salinity": 35.66,
+        "chlorophyll": 0.12,
+        "oxygen": 1.54,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 12.16,
+        "salinity": 35.34,
+        "chlorophyll": 0.02,
+        "oxygen": 1.18,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 8.02,
+        "salinity": 35.13,
+        "chlorophyll": 0.02,
+        "oxygen": 0.9,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.55,
+        "salinity": 34.94,
+        "chlorophyll": 0.02,
+        "oxygen": 0.82,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.43,
+        "salinity": 34.87,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.85,
+        "salinity": 34.71,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.72,
+        "salinity": 34.79,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  },
+  {
+    "id": "BGC-2903119",
+    "name": "BGC-Argo #2903119 (Phytoplankton Bloom Tracker)",
+    "type": "BGC",
+    "latitude": 13.1,
+    "longitude": 87.8,
+    "timestamp": "2026-09-28T06:00:00Z",
+    "quality": "WMO Verified (QC Level 1)",
+    "source": "INCOIS / Indian Ocean BGC Array",
+    "depth_range": [
+      0,
+      2000
+    ],
+    "surface_temp": 31.16,
+    "surface_salinity": 32.2,
+    "attributes": {
+      "id": "BGC-2903119",
+      "type": "BGC",
+      "lat": 13.1,
+      "lon": 87.8,
+      "name": "BGC-Argo #2903119 (Phytoplankton Bloom Tracker)",
+      "parameters": [
+        "Temp",
+        "Sal",
+        "Oxygen",
+        "Chl-a"
+      ]
+    },
+    "measurements": [
+      {
+        "depth": 0,
+        "temperature": 31.16,
+        "salinity": 32.2,
+        "chlorophyll": 0.45,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 10,
+        "temperature": 30.25,
+        "salinity": 32.28,
+        "chlorophyll": 0.32,
+        "oxygen": 4.03,
+        "qc": 1
+      },
+      {
+        "depth": 25,
+        "temperature": 29.05,
+        "salinity": 32.32,
+        "chlorophyll": 0.27,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 50,
+        "temperature": 27.02,
+        "salinity": 32.6,
+        "chlorophyll": 0.2,
+        "oxygen": 4.5,
+        "qc": 1
+      },
+      {
+        "depth": 75,
+        "temperature": 25.22,
+        "salinity": 32.72,
+        "chlorophyll": 0.14,
+        "oxygen": 4.19,
+        "qc": 1
+      },
+      {
+        "depth": 100,
+        "temperature": 23.59,
+        "salinity": 32.92,
+        "chlorophyll": 0.08,
+        "oxygen": 3.93,
+        "qc": 1
+      },
+      {
+        "depth": 150,
+        "temperature": 20.53,
+        "salinity": 33.14,
+        "chlorophyll": 0.03,
+        "oxygen": 3.53,
+        "qc": 1
+      },
+      {
+        "depth": 200,
+        "temperature": 18.07,
+        "salinity": 33.44,
+        "chlorophyll": 0.05,
+        "oxygen": 3.24,
+        "qc": 1
+      },
+      {
+        "depth": 300,
+        "temperature": 14.17,
+        "salinity": 33.77,
+        "chlorophyll": 0.02,
+        "oxygen": 2.88,
+        "qc": 1
+      },
+      {
+        "depth": 500,
+        "temperature": 9.14,
+        "salinity": 34.31,
+        "chlorophyll": 0.02,
+        "oxygen": 2.6,
+        "qc": 1
+      },
+      {
+        "depth": 750,
+        "temperature": 5.98,
+        "salinity": 34.63,
+        "chlorophyll": 0.02,
+        "oxygen": 2.52,
+        "qc": 1
+      },
+      {
+        "depth": 1000,
+        "temperature": 4.75,
+        "salinity": 34.64,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 1500,
+        "temperature": 3.77,
+        "salinity": 34.64,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      },
+      {
+        "depth": 2000,
+        "temperature": 3.4,
+        "salinity": 34.75,
+        "chlorophyll": 0.02,
+        "oxygen": 2.5,
+        "qc": 1
+      }
+    ]
+  }
+]

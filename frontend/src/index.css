@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', 'Outfit', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', Consolas, 'Cascadia Code', 'Courier New', monospace;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #ECF4E8;
+    color: #020617;
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-x: hidden;
+  }
+  #root {
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: none;
+    max-width: none;
+    color: #020617;
+  }
+}
+
+/* User Color Palette Tokens:
+   #ECF4E8 - Soft Mint Cream / Light Refreshing Background
+   #CBF3BB - Light Pastel Lime / Vibrant Pill Highlight & Accent
+   #ABE7B2 - Fresh Mint Sea Green / Borders, Badges & Secondary Accents
+   #93BFC7 - Muted Ocean Aqua / Frosted Glass Borders, Subtitles & Tags
+   #0077be / #0284c7 - Authentic Ocean Blue
+*/
+
+/* Solid, Crisp UI Cards - Eliminates GPU WebGL backdrop-filter blur corruption */
+.ocean-glass {
+  background: #ffffff;
+  border: 2px solid #cbd5e1;
+  box-shadow: 0 4px 14px 0 rgba(15, 23, 42, 0.12);
+  color: #020617;
+}
+
+.ocean-glass-elevated {
+  background: #ffffff;
+  border: 2px solid #94a3b8;
+  box-shadow: 0 10px 25px -3px rgba(15, 23, 42, 0.18), 0 4px 10px -2px rgba(15, 23, 42, 0.10);
+  color: #020617;
+}
+
+.ocean-glass-card {
+  background: #ffffff;
+  border: 2px solid #cbd5e1;
+  box-shadow: 0 4px 14px 0 rgba(15, 23, 42, 0.10);
+  color: #020617;
+}
+
+/* Custom scrollbar for light ocean feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #ECF4E8;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(147, 191, 199, 0.6);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0284c7;
+}
+
+
