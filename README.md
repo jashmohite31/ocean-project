@@ -1,8 +1,8 @@
-# 🌊 OceanX — 3D Ocean Intelligence Platform
+# 🌊 OceanLense — 3D Ocean Intelligence Platform
 
 > Real-time 3D visualization and AI-powered analysis of the North Indian Ocean, integrating numerical model outputs with live in-situ Argo float observations.
 
-![OceanX Banner](https://img.shields.io/badge/OceanX-3D%20Ocean%20Intelligence-0284c7?style=for-the-badge&logo=waves)
+![OceanLense Banner](https://img.shields.io/badge/OceanLense-3D%20Ocean%20Intelligence-0284c7?style=for-the-badge&logo=waves)
 ![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
@@ -12,7 +12,7 @@
 
 ## 📌 Overview
 
-**OceanX** is a full-stack ocean intelligence platform that gives researchers, disaster managers, and oceanographers a powerful 3D window into the North Indian Ocean (0°N–25°N, 50°E–85°E).
+**OceanLense** is a full-stack ocean intelligence platform that gives researchers, disaster managers, and oceanographers a powerful 3D window into the North Indian Ocean (0°N–25°N, 50°E–85°E).
 
 It fuses:
 - 🌐 **High-resolution numerical ocean model** data (ROMS/MOM6 compatible, 0.25° grid)
@@ -31,7 +31,7 @@ It fuses:
 | **Model vs Argo Comparison** | Side-by-side comparison of numerical model predictions and real Argo float soundings with RMSE metrics |
 | **In-Situ Observations** | Live positions, profiles, and QC-verified data from Argo floats, gliders, CTD stations, and BGC buoys |
 | **Disaster Hazards Layer** | Automatic detection of marine heatwaves (MHW), cyclonic eddies, and anomalous regions |
-| **OceanX AI Assistant** | Gemini 2.5 Flash powered chatbot grounded in live ocean data — ask anything in natural language |
+| **OceanLense AI Assistant** | Gemini 2.5 Flash powered chatbot grounded in live ocean data — ask anything in natural language |
 | **Data Pipeline** | Upload and validate custom NetCDF, CSV, or GeoJSON datasets |
 | **INCOIS API Integration** | Ready-to-connect with live INCOIS ERDDAP/TDS data feeds |
 
@@ -57,7 +57,7 @@ It fuses:
 ## 📁 Project Structure
 
 ```
-ocean-project/
+oceanlense/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py               # FastAPI app & all API routes
@@ -107,8 +107,8 @@ ocean-project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/jashmohite31/ocean-project.git
-cd ocean-project
+git clone https://github.com/jashmohite31/oceanlense.git
+cd oceanlense
 ```
 
 ### 2. Backend Setup
@@ -150,7 +150,7 @@ npm run dev
 Create `backend/.env` from the provided `backend/.env.example`:
 
 ```env
-# Required for AI-powered OceanX Assistant
+# Required for AI-powered OceanLense Assistant
 GEMINI_API_KEY=your_gemini_api_key_here
 
 # Optional: INCOIS Live API integration
@@ -191,7 +191,7 @@ Full interactive documentation: **http://localhost:8000/docs**
 
 ## 🤖 AI Assistant
 
-The **OceanX Assistant** is powered by **Gemini 2.5 Flash** and grounded in live model data. It:
+The **OceanLense Assistant** is powered by **Gemini 2.5 Flash** and grounded in live model data. It:
 - Answers only oceanographic questions (temperature, salinity, currents, hazards, Argo observations)
 - Automatically triggers 3D visualizations from natural language commands
 - Falls back to a built-in rule-based engine if Gemini is unavailable
@@ -218,4 +218,4 @@ This project is developed for ocean research and disaster management decision-su
 
 ---
 
-*OceanX — Because what happens beneath the surface matters.*
+*OceanLense — Because what happens beneath the surface matters.*
