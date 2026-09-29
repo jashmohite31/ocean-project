@@ -205,6 +205,72 @@ The **OceanLense Assistant** is powered by **Gemini 2.5 Flash** and grounded in 
 
 ---
 
+## 💼 Business Model Canvas
+
+### 1. Value Proposition
+* **For Government/Agencies:** Early detection of marine hazards (heatwaves, eddies) to protect coastal economies and marine ecosystems.
+* **For Researchers:** A unified 3D platform to explore and validate ocean models with real observations. Saves significant time and effort.
+* **For Marine Industries:** Actionable subsurface intelligence (temp, currents, salinity) to support safe navigation, offshore energy, and fisheries.
+* **Core Innovation:** Converts complex NetCDF ocean data into an accessible, interactive 3D web interface with an AI assistant for natural language querying.
+
+### 2. Customer Segments
+* **B2G (Government Agencies):** Ministry of Earth Sciences, INCOIS, IMD, Coast Guard, Disaster Management Authorities.
+* **B2B (Marine Industries):** Commercial shipping companies, offshore energy (oil/gas/wind), commercial fishing fleets.
+* **B2I (Research & Academic Institutions):** Universities, oceanographic research institutes, climate NGOs.
+
+### 3. Key Activities
+* **Data Aggregation:** Continuous ingestion of ocean-model and Argo/glider data via APIs.
+* **Platform Development:** Develop and maintain web-based 3D visualization rendering and user tools.
+* **AI Model Tuning:** Gemini-powered natural language querying and scientific validation.
+* **Model vs. Observation Validation:** Automated statistical analysis (RMSE, SI, etc.).
+* **Cloud Data Processing:** Scalable infrastructure for processing and storage.
+
+### 4. Key Resources
+* **Ocean Datasets:** INCOIS, NOAA, Copernicus, Argo.
+* **Cloud Computing & Storage:** High-performance infrastructure.
+* **Technology Stack:** Python/FastAPI backend, React + Three.js frontend.
+* **Human Capital:** Oceanographers, data scientists, full-stack developers.
+* **AI Models:** Google Gemini APIs for NLP querying.
+* **Algorithms:** 3D volume rendering, model comparison, analytics.
+
+### 5. Key Partners
+* **Data Providers:** INCOIS (India), NOAA, Copernicus Marine Service.
+* **Hardware Deployers:** Argo & glider organizations (in-situ data providers).
+* **Cloud Infrastructure:** Google Cloud / AWS / Render.
+* **Research Collaboration:** Universities & oceanographic institutes.
+* **Domain Expertise:** Marine technology organizations.
+
+### 6. Customer Relationships
+* **High-touch support:** Dedicated account management & SLAs for government and enterprise customers.
+* **Self-service platform:** Comprehensive API documentation for researchers.
+* **Automated assistance:** AI assistant for data exploration and tier-1 support.
+* **Custom solutions:** Feature requests and tailored deployments.
+
+### 7. Channels
+* **Direct Sales:** Government ministries and enterprise companies.
+* **Academic Partnerships:** Discounted access for universities.
+* **Conferences & Events:** Marine technology and climate summits (e.g., Ocean Sciences Meeting).
+* **Online SaaS platform:** Web application and developer ecosystem.
+* **API ecosystem:** For third-party integrations.
+
+### 8. Cost Structure
+* **Cloud hosting & GPU computing:** Major cost for large datasets and 3D rendering.
+* **Data storage:** Massive NetCDF files and real-time data.
+* **AI/API costs:** Google Gemini usage fees.
+* **Software development & R&D:** Platform development and maintenance.
+* **Salaries:** Developers, data scientists, domain experts.
+* **Sales & marketing:** B2B outreach and conference participation.
+
+### 9. Revenue Streams
+* **SaaS Subscriptions (Tiered):**
+  * *Basic:* Delayed data, basic 2D/3D views (Target: Students and hobbyists).
+  * *Pro:* Live data, advanced validation tools, Full AI assistant access (Target: Researchers and institutions).
+  * *Enterprise:* Real-time hazard alerts, custom pipelines, dedicated API access, private deployment (Target: Government agencies and corporations).
+* **Custom Integration Fees:** One-time fees for integrating private sensor/buoy/offshore datasets.
+* **Enterprise Services:** Custom data pipelines, analytics reports, and private deployments.
+
+---
+
 ## 📄 License
 
 This project is developed for ocean research and disaster management decision-support purposes.
